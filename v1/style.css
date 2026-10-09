@@ -3,13 +3,13 @@
    ============================================================ */
 
 :root {
-  --ink:        #4a3325;
-  --ink-soft:   #8a7566;
-  --cream:      #fff7ec;
-  --brand:      #ff6b6b;
-  --brand-dark: #e14b4b;
-  --card:       rgba(255, 255, 255, .74);
-  --shadow:     0 18px 50px rgba(126, 84, 44, .18);
+  --ink:        #16465B;
+  --ink-soft:   #628797;
+  --cream:      #EFFAFF;
+  --brand:      #35B9D5;
+  --brand-dark: #1685B4;
+  --card:       rgba(255, 255, 255, .82);
+  --shadow:     0 18px 50px rgba(22, 133, 180, .16);
 
   /* 手机浏览器地址栏会吃掉 vh，dvh 更准；不支持的浏览器自动退回 vh */
   --vh:         100vh;
